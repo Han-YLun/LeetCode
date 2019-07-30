@@ -4,7 +4,6 @@
  **/
 public class Que206 {
 
-
     class ListNode {
         int val;
         ListNode next;
