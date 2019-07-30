@@ -12,7 +12,7 @@ public class Que4 {
     //
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
-
+    
         List<Integer> list = new ArrayList<Integer>();
 
         int num1Index = 0, num2Index = 0;
