@@ -4,6 +4,14 @@
  **/
 public class Que206 {
 
+
+    class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
+    }
+
+
     public ListNode reverseList(ListNode head) {
 
         if (head ==null || head.next == null)
@@ -28,10 +36,4 @@ public class Que206 {
         return head;
     }
 
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
 }
