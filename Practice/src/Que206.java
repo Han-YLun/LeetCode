@@ -3,7 +3,7 @@
  * @date: 2019/07/30
  **/
 public class Que206 {
-
+      
     class ListNode {
         int val;
         ListNode next;
