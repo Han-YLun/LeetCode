@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55129189-c335-4c34-8730-d49ded92776e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Que15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que692.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Que15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Que15.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Que15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-end-line="54" selection-end-column="26" />
+            <state relative-caret-position="175">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#268#283#0" expanded="true" />
@@ -148,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564752092465" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564752185870" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -236,7 +233,7 @@
       <workItem from="1564620107192" duration="21016000" />
       <workItem from="1564667775592" duration="963000" />
       <workItem from="1564728605004" duration="388000" />
-      <workItem from="1564736151398" duration="7751000" />
+      <workItem from="1564736151398" duration="7807000" />
     </task>
     <task id="LOCAL-00001" summary="2019.7.30">
       <created>1564463052517</created>
@@ -277,10 +274,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72017000" />
+    <option name="totallyTimeSpent" value="72073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2927383" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27912253" />
@@ -903,8 +901,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Que15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-end-line="54" selection-end-column="26" />
+        <state relative-caret-position="175">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#268#283#0" expanded="true" />
