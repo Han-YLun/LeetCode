@@ -12,7 +12,7 @@ public class Que15 {
     public List<List<Integer>> threeSum(int[] nums) {
 
         Arrays.sort(nums);
-             
+              
         List<List<Integer>> resultList = new ArrayList<List<Integer>>();
 
         for (int i = 0; i < nums.length - 2; i++) {
