@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55129189-c335-4c34-8730-d49ded92776e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Que18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Que15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Que15.java" afterDir="false" />
     </list>
@@ -17,15 +18,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Que15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="177" column="56" selection-start-line="177" selection-start-column="56" selection-end-line="177" selection-end-column="56" />
+            <state relative-caret-position="25">
+              <caret line="121" selection-start-line="121" selection-end-line="176" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#threeSum#0;class#Que15#0" />
                 <element signature="method#threeSum1#0;class#Que15#0" />
-                <element signature="method#threeSum2#0;class#Que15#0" />
-                <element signature="e#2413#2428#0" expanded="true" />
-                <element signature="e#3158#3167#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/Que905.java" />
         <option value="$PROJECT_DIR$/src/Que509.java" />
         <option value="$PROJECT_DIR$/src/Que561.java" />
@@ -108,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/Que.java" />
         <option value="$PROJECT_DIR$/src/Que692.java" />
         <option value="$PROJECT_DIR$/src/Que242.java" />
+        <option value="$PROJECT_DIR$/src/Que18.java" />
         <option value="$PROJECT_DIR$/src/Que15.java" />
       </list>
     </option>
@@ -147,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564798685405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564803941704" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -236,7 +234,7 @@
       <workItem from="1564667775592" duration="963000" />
       <workItem from="1564728605004" duration="388000" />
       <workItem from="1564736151398" duration="7983000" />
-      <workItem from="1564793522707" duration="5041000" />
+      <workItem from="1564793522707" duration="9213000" />
     </task>
     <task id="LOCAL-00001" summary="2019.7.30">
       <created>1564463052517</created>
@@ -277,7 +275,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77290000" />
+    <option name="totallyTimeSpent" value="81462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -470,13 +468,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Que628.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que1002.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="694">
@@ -890,17 +881,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#257#0" expanded="true" />
+            <element signature="e#1149#1158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="177" column="56" selection-start-line="177" selection-start-column="56" selection-end-line="177" selection-end-column="56" />
+        <state relative-caret-position="25">
+          <caret line="121" selection-start-line="121" selection-end-line="176" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#threeSum#0;class#Que15#0" />
             <element signature="method#threeSum1#0;class#Que15#0" />
-            <element signature="method#threeSum2#0;class#Que15#0" />
-            <element signature="e#2413#2428#0" expanded="true" />
-            <element signature="e#3158#3167#0" expanded="true" />
           </folding>
         </state>
       </provider>

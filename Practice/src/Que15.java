@@ -17,6 +17,7 @@ public class Que15 {
 
         for (int i = 0; i < nums.length - 2; i++) {
 
+            //判断当前是否和前一个数相等,可以进行去重
             if (i > 0 && nums[i] == nums[i-1]){
                 continue;
             }
@@ -24,14 +25,14 @@ public class Que15 {
 
             for (int j = i + 1; j < nums.length - 1; j++) {
 
-
+                //判断当前是否和前一个数相等,可以进行去重
                 if (j > i+1 && nums[j] == nums[j-1]){
                     continue;
                 }
 
                 for (int k = j + 1; k < nums.length; k++) {
 
-
+                    //判断当前是否和前一个数相等,可以进行去重
                     if (k > j+1 && nums[k] == nums[k-1]){
                         continue;
                     }
@@ -118,10 +119,12 @@ public class Que15 {
             return resultList;
         }
 
+        //对数组进行排序
         Arrays.sort(nums);
         Map<Integer,Integer> map = new HashMap<>();
 
 
+        //将数组放入map中,并将索引放入value中
         for (int i = 0; i < nums.length; i++) {
             map.put(nums[i],i);
         }
@@ -129,6 +132,7 @@ public class Que15 {
         for (int i = 0; i < nums.length-2; i++) {
 
 
+            //进行判重处理
             if (i > 0 && nums[i] == nums[i-1]){
                 continue;
             }
@@ -142,9 +146,9 @@ public class Que15 {
                 int sum = nums[i] + nums[l] + nums[r];
 
                 if (sum < 0){
-                    l++;
+                    l++;    //如果小于0,则向右逼近
                 }else if (sum > 0){
-                    r--;
+                    r--;    //如果打于0,则向左逼近
                 }else{
                     List<Integer> list = new ArrayList<Integer>();
 
@@ -155,6 +159,7 @@ public class Que15 {
 
                     resultList.add(list);
 
+                    //在添加完成之后,在此进行判重处理
                     while (l+1 < r && nums[l] == nums[l+1]){
                         l++;
                     }
@@ -162,8 +167,6 @@ public class Que15 {
                     while (r < nums.length-1 && nums[r] == nums[r+1]){
                         r--;
                     }
-
-
 
                     l++;
                     r--;
