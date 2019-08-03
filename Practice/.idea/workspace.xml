@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55129189-c335-4c34-8730-d49ded92776e" name="Default Changelist" comment="" />
+    <list default="true" id="55129189-c335-4c34-8730-d49ded92776e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Que15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Que15.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +17,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Que15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="385">
+              <caret line="177" column="56" selection-start-line="177" selection-start-column="56" selection-end-line="177" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#268#283#0" expanded="true" />
-                <element signature="e#810#819#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1358#1359#0" expanded="true" />
+                <element signature="method#threeSum#0;class#Que15#0" />
+                <element signature="method#threeSum1#0;class#Que15#0" />
+                <element signature="method#threeSum2#0;class#Que15#0" />
+                <element signature="e#2413#2428#0" expanded="true" />
+                <element signature="e#3158#3167#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,8 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564752291959" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564798685405" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -231,7 +235,8 @@
       <workItem from="1564620107192" duration="21016000" />
       <workItem from="1564667775592" duration="963000" />
       <workItem from="1564728605004" duration="388000" />
-      <workItem from="1564736151398" duration="7913000" />
+      <workItem from="1564736151398" duration="7983000" />
+      <workItem from="1564793522707" duration="5041000" />
     </task>
     <task id="LOCAL-00001" summary="2019.7.30">
       <created>1564463052517</created>
@@ -272,13 +277,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72179000" />
+    <option name="totallyTimeSpent" value="77290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2927383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.29727685" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27912253" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -286,7 +291,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4893617" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -310,7 +315,7 @@
       <window_info anchor="right" id="BPMNPalette" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2927383" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.29727685" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27912253" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -318,7 +323,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4893617" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -388,18 +393,6 @@
           <line>42</line>
           <properties />
           <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Que15.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Que15.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Que3.java</url>
@@ -746,13 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../java/eclipse/JDK/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="477" column="17" lean-forward="true" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../java/eclipse/JDK/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -897,16 +883,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../java/eclipse/JDK/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="132" column="42" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="385">
+          <caret line="177" column="56" selection-start-line="177" selection-start-column="56" selection-end-line="177" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#268#283#0" expanded="true" />
-            <element signature="e#810#819#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="method#threeSum#0;class#Que15#0" />
+            <element signature="method#threeSum1#0;class#Que15#0" />
+            <element signature="method#threeSum2#0;class#Que15#0" />
+            <element signature="e#2413#2428#0" expanded="true" />
+            <element signature="e#3158#3167#0" expanded="true" />
           </folding>
         </state>
       </provider>
