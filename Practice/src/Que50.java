@@ -6,18 +6,7 @@
 public class Que50 {
 
     public double myPow(double x, int n) {
-
- /*       if (n == 0 && x !=0){
-            return 1;
-        }
-
-        boolean isPositive = n > 0 ? true : false;
-
-
-        if (!isPositive){
-            n = -n;
-        }*/
-
+        
         double res = 1.0;
 
         for (int i = n; i !=0; i/=2) {
