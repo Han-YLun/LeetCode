@@ -13,7 +13,9 @@ public class Que51 {
         List<List<String>> res = new ArrayList<List<String>>();
 
         generate(0,new boolean[n],new boolean[2*n],new boolean[2*n],new String[n],res);
-        
+
+
+      
         return res;
 
 
@@ -55,7 +57,7 @@ public class Que51 {
     }
 
     public static void main(String[] args) {
-        new Que51().solveNQueens(2);
+        new Que51().solveNQueens(4);
     }
 
 }
