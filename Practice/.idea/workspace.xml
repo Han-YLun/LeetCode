@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55129189-c335-4c34-8730-d49ded92776e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Que208.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Que208.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Que208.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Que208.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="77" column="30" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="77" selection-end-column="5" />
+            <state relative-caret-position="700">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -104,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1366" />
     <option name="height" value="728" />
   </component>
@@ -139,7 +139,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565226680403" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565252158992" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -234,7 +234,7 @@
       <workItem from="1564967663789" duration="8901000" />
       <workItem from="1565075599572" duration="10431000" />
       <workItem from="1565164540925" duration="7795000" />
-      <workItem from="1565225439479" duration="1048000" />
+      <workItem from="1565225439479" duration="3944000" />
     </task>
     <task id="LOCAL-00001" summary="2019.7.30">
       <created>1564463052517</created>
@@ -275,13 +275,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128312000" />
+    <option name="totallyTimeSpent" value="131208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27912253" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -969,8 +969,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Que208.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="77" column="30" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="77" selection-end-column="5" />
+        <state relative-caret-position="700">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
         </state>
       </provider>
     </entry>

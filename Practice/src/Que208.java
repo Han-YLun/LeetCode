@@ -26,7 +26,7 @@ public class Que208 {
             root.val = ' ';
         }
 
-        /** Inserts a word into the trie. */
+        /** Inserts ab word into the trie. */
         public void insert(String word) {
 
             TrieNode ws = root;
