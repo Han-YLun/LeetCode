@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55129189-c335-4c34-8730-d49ded92776e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Que120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Que322.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,16 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Que300.java">
+        <entry file="file://$PROJECT_DIR$/src/Que832.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1699#1700#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -59,8 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Que2.java" />
-        <option value="$PROJECT_DIR$/src/Que7.java" />
         <option value="$PROJECT_DIR$/src/Que9.java" />
         <option value="$PROJECT_DIR$/src/Que43.java" />
         <option value="$PROJECT_DIR$/src/Que292.java" />
@@ -110,6 +99,8 @@
         <option value="$PROJECT_DIR$/src/Que120.java" />
         <option value="$PROJECT_DIR$/src/Que152.java" />
         <option value="$PROJECT_DIR$/src/Que300.java" />
+        <option value="$PROJECT_DIR$/src/Que322.java" />
+        <option value="$PROJECT_DIR$/src/Que832.java" />
       </list>
     </option>
   </component>
@@ -125,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -142,13 +134,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565592167349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565784542938" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -245,7 +236,8 @@
       <workItem from="1565164540925" duration="7795000" />
       <workItem from="1565225439479" duration="5678000" />
       <workItem from="1565494037424" duration="13449000" />
-      <workItem from="1565574769833" duration="4981000" />
+      <workItem from="1565574769833" duration="6785000" />
+      <workItem from="1565784479676" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="2019.7.30">
       <created>1564463052517</created>
@@ -286,13 +278,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151372000" />
+    <option name="totallyTimeSpent" value="153242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="728" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.26493108" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.26875958" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27912253" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,27 +479,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../java/eclipse/JDK/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="164" column="38" selection-start-line="164" selection-start-column="38" selection-end-line="164" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Que844.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#240#251#0" expanded="true" />
-            <element signature="e#303#314#0" expanded="true" />
-            <element signature="e#1257#1258#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Que20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -975,12 +945,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Que300.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="78" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1699#1700#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que322.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="24" column="57" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Que832.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
