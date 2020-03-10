@@ -1,9 +1,11 @@
 # LeetCode
 
 
-| # | Title | Solution | Blog | Difficulty |
+| # | Title | Solution | Blog | Difficult |
 | ------- | ------- |------- | ------- |------- |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1365.java) | CSDN | Easy |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1342.java) | CSDN | Easy |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1313.java) | CSDN | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1002.java) | CSDN | Easy |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que999.java) | CSDN | Easy |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que989.java) | CSDN | Easy |
