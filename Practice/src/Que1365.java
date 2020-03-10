@@ -33,7 +33,7 @@ public class Que1365 {
      * 时间复杂度 ： O(N * log(N))
      * 空间复杂度 ： O(N)
      */
-    public static int[] smallerNumbersThanCurrent1(int[] nums) {
+    public int[] smallerNumbersThanCurrent1(int[] nums) {
 
         int len = nums.length;
         Map<Integer, Set<Integer>> valueIndex = new HashMap<>(len);
@@ -57,7 +57,7 @@ public class Que1365 {
 
     public static void main(String[] args) {
         int[] arr = {8 ,1,2,2,3};
-        smallerNumbersThanCurrent1(arr);
+        //smallerNumbersThanCurrent1(arr);
     }
     
 }
