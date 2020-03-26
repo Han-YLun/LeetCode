@@ -75,6 +75,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que15.java) | CSDN | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que9.java) | CSDN | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que7.java) | CSDN | Easy |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que5.java) | CSDN | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que4.java) | CSDN | Hard |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que3.java) | CSDN | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que2.java) | CSDN | Medium |
