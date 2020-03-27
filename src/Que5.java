@@ -13,47 +13,84 @@ public class Que5 {
      * @param s 传入的字符串
      * @return  最长的回文子串
      */
-   public String longestPalindrome(String s) {
+    public String longestPalindrome(String s) {
+       char[] str = s.toCharArray();
        //判断是否为空
        if (s == null || s.equals("")){
            return "";
        }
 
-       int left , right , maxStart = 0 , maxLen = 0 , len = 1;
+       int[] range = new int[2];
        int strLen = s.length();
        for (int i = 0; i < strLen; i++) {
-           left = i - 1;
-           right = i + 1;
+           int left = i - 1;
+           int right = i + 1;
 
            //当前的是否和左边的相等
-           while (left >= 0 && s.charAt(left) == s.charAt(i)){
-               len ++;
+           while (left >= 0 && str[left] == str[i]){
                left--;
            }
 
            //当前的是否和右边的相等
-           while(right < strLen && s.charAt(right) == s.charAt(i)){
-               len++;
+           while(right < strLen && str[right] == str[i]){
                right++;
            }
 
            //左右两边的是否相等
-           while (left >= 0 && right < strLen && s.charAt(left) == s.charAt(right)){
-               len += 2;
+           while (left >= 0 && right < strLen && str[left] == str[right]){
                left--;
                right++;
            }
 
            //判断是否长度大于最大的长度
-           if (len > maxLen){
-               maxLen = len;
-               maxStart = left;
+           if (right - left > range[1] - range[0]){
+               range[0] = left;
+               range[1] = right;
            }
-           len = 1;
-           
+
        }
-       return s.substring(maxStart +1, maxStart + maxLen+1);
+       return s.substring(range[0]+1, range[1]);
     }
+
+    /**
+     * 动态规划
+     *      时间复杂度： O(N * N)
+     *      空间复杂度： O(N*N)
+     * @param s
+     * @return
+     */
+    public String longestPalindrome1(String s) {
+        if (s == null || s.equals("")){
+            return "";
+        }
+
+        int len = s.length();
+        int maxStart = 0;
+        int maxLen = 1;
+
+        char[] str = s.toCharArray();
+
+        boolean[][] dp = new boolean[len][len];
+        for (int r = 1; r < len; r++) {
+            for (int l = 0; l < r; l++) {
+                if (str[l] == str[r] && (r - l <= 2 || dp[l+1][r-1])){
+                    dp[l][r] = true;
+                    if (r - l + 1 > maxLen){
+                        maxLen = r - l + 1;
+                        maxStart = l;
+                    }
+                }
+            }
+
+        }
+
+
+        return s.substring(maxStart , maxStart + maxLen);
+    }
+
+
+
+
 
     public static void main(String[] args) {
         System.out.println(new Que5().longestPalindrome(""));
