@@ -3,9 +3,13 @@
 
 | # | Title | Solution | Blog | Difficult |
 | ------- | ------- |------- | ------- |------- |
+| 1289 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que13.java) | CSDN | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1365.java) | CSDN | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1342.java) | CSDN | Easy |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1313.java) | CSDN | Easy |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1290.java) | CSDN | Easy |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1281.java) | CSDN | Easy |
+| 1108 | [ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1108.java) | CSDN | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1002.java) | CSDN | Easy |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que999.java) | CSDN | Easy |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que989.java) | CSDN | Easy |
@@ -28,7 +32,7 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que509.java) | CSDN | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que485.java) | CSDN | Easy |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que322.java) | CSDN | Medium |
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que300.java) | CSDN | Medium |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que300.java) | [CSDN](https://blog.csdn.net/qq_37888382/article/details/99292640) | Medium |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que292.java) | CSDN | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que268.java) | CSDN | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que242.java) | CSDN | Easy |
