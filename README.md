@@ -51,7 +51,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que144.java) | CSDN | Medium |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que142.java) | CSDN | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que141.java) | CSDN | Easy |
-| 125 | [Valid Palindrome](Best Time to Buy and Sell Stock II) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que125.java) | CSDN | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que125.java) | CSDN | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que122.java) | CSDN | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que121.java) | CSDN | Easy |
 | 120 | [Triangle](https://leetcode.com/problems/triangle) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que120.java) | CSDN | Medium |
