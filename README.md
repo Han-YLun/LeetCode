@@ -3,6 +3,8 @@
 
 | # | Title | Solution | Blog | Difficult |
 | ------- | ------- |------- | ------- |------- |
+| 1450 | [[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)] | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1450.java) | CSDN | Easy |
+| 1431 | [Create Target Array in the Given Order](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1431.java) | CSDN | Easy |
 | 1289 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que13.java) | CSDN | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1365.java) | CSDN | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1342.java) | CSDN | Easy |
