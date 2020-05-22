@@ -3,7 +3,8 @@
 
 | # | Title | Solution | Blog | Difficult |
 | ------- | ------- |------- | ------- |------- |
-| 1450 | [[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)] | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1450.java) | CSDN | Easy |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1450.java) | CSDN | Easy |
+| 1436 | [ Destination City](https://leetcode.com/problems/destination-city/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1436.java) | CSDN | Easy |
 | 1431 | [Create Target Array in the Given Order](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1431.java) | CSDN | Easy |
 | 1289 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que13.java) | CSDN | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que1365.java) | CSDN | Easy |
@@ -39,6 +40,7 @@
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que268.java) | CSDN | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que242.java) | CSDN | Easy |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que239.java) | CSDN | Hard |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que237.java) | CSDN | Easy |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que236.java) | CSDN | Medium |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que235.java) | CSDN | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/Practice/src/Que232.java) | CSDN | Easy |
