@@ -3,11 +3,15 @@
 
 | # | Title | Solution | Blog | Difficult |
 | ------- | ------- |------- | ------- |------- |
-| 1512 | [number-of-good-pairs](https://leetcode-cn.com/problems/number-of-good-pairs/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1512.java) | CSDN | Easy |
-| 1480 | [running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1480.java) | CSDN | Easy |
-| 1470 | [shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1470.java) | CSDN | Easy |
+| 1572 | [Matrix Diagonal Sum](https://leetcode-cn.com/problems/matrix-diagonal-sum/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1572.java) | CSDN | Easy |
+| 1528 | [Shuffle String](https://leetcode-cn.com/problems/shuffle-string/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1528.java) | CSDN | Easy |
+| 1512 | [Number of Good Pairs](https://leetcode-cn.com/problems/number-of-good-pairs/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1512.java) | CSDN | Easy |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1502.java) | CSDN | Easy |
+| 1486 | [XOR Operation in an Array](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1486.java) | CSDN | Easy |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1480.java) | CSDN | Easy |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1470.java) | CSDN | Easy |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1450.java) | CSDN | Easy |
-| 1436 | [ Destination City](https://leetcode.com/problems/destination-city/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1436.java) | CSDN | Easy |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1436.java) | CSDN | Easy |
 | 1431 | [Create Target Array in the Given Order](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1431.java) | CSDN | Easy |
 | 1351 | [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1351.java) | CSDN | Easy |
 | 1289 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que13.java) | CSDN | Easy |
@@ -15,8 +19,10 @@
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1342.java) | CSDN | Easy |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1313.java) | CSDN | Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1290.java) | CSDN | Easy |
-| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1281.java) | CSDN | Easy |
-| 1108 | [ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1108.java) | CSDN | Easy |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1281.java) | CSDN                                                         | Easy      |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1266.java) | CSDN                                                         | Easy      |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1221.java) | CSDN                                                         | Easy      |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1108.java) | CSDN | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1002.java) | CSDN | Easy |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que999.java) | CSDN | Easy |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que989.java) | CSDN | Easy |
@@ -92,3 +98,6 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que3.java) | CSDN | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que2.java) | CSDN | Medium |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1.java) | CSDN | Easy |
+
+
+
