@@ -1,13 +1,16 @@
-# LeetCode
+# [LeetCode]()
 
 
 | # | Title | Solution | Blog | Difficult |
 | ------- | ------- |------- | ------- |------- |
-| 1572 | [Matrix Diagonal Sum](https://leetcode-cn.com/problems/matrix-diagonal-sum/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1572.java) | CSDN | Easy |
-| 1528 | [Shuffle String](https://leetcode-cn.com/problems/shuffle-string/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1528.java) | CSDN | Easy |
-| 1512 | [Number of Good Pairs](https://leetcode-cn.com/problems/number-of-good-pairs/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1512.java) | CSDN | Easy |
-| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1502.java) | CSDN | Easy |
-| 1486 | [XOR Operation in an Array](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1486.java) | CSDN | Easy |
+| 5626 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que5626.java) | CSDN | Medium |
+| 5625 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que5625.java) | CSDN | Easy |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1572.java) | CSDN | Easy |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1534.java) | CSDN | Easy |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1528.java) | CSDN | Easy |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1512.java) | CSDN | Easy |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1502.java) | CSDN | Easy |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1486.java) | CSDN | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1480.java) | CSDN | Easy |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1470.java) | CSDN | Easy |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que1450.java) | CSDN | Easy |
@@ -44,6 +47,7 @@
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que520.java) | CSDN | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que509.java) | CSDN | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que485.java) | CSDN | Easy |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que485.java)[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)[Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que485.java) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que461.java) | Easy |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que322.java) | CSDN | Medium |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que300.java) | [CSDN](https://blog.csdn.net/qq_37888382/article/details/99292640) | Medium |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que292.java) | CSDN | Easy |
