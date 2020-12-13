@@ -27,7 +27,7 @@ public class Que1528 {
     }
 
     /**
-     * todo 使用原地修改的方式达到空间复杂度O(1)
+     * 使用原地修改的方式达到空间复杂度O(1)
      * 时间复杂度 ： O(N)
      * 空间复杂度 ： O(1)
      *
@@ -40,6 +40,27 @@ public class Que1528 {
             return "";
         }
 
-        return "";
+        int len =s.length();
+        char[] chars = s.toCharArray();
+        for (int i = 0; i < len; i++) {
+            if (indices[i] != i){
+                char ch = chars[i];
+                int idx = indices[i];
+                while (idx != i){
+                    char temp = chars[idx];
+                    chars[idx] = ch;
+                    ch = temp;
+
+                    int t = indices[idx];
+                    indices[idx] = idx;
+                    idx = t;
+
+                }
+                chars[i] = ch;
+                indices[i] = i;
+            }
+        }
+
+        return new String(chars);
     }
 }
