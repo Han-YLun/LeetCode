@@ -4,7 +4,7 @@
  **/
 public class Que206 {
 
-    class ListNode {
+    static class ListNode {
         int val;
         ListNode next;
 
@@ -39,4 +39,33 @@ public class Que206 {
         return head;
     }
 
+
+    public ListNode reverseList1(ListNode head) {
+
+        if (head == null || head.next == null) {
+            return head;
+        }
+
+        ListNode pre = head;
+        ListNode cur = head.next;
+        while (cur != null) {
+            ListNode next = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = next;
+        }
+        head.next = null;
+        return pre;
+    }
+
+    public ListNode reverseList2(ListNode head) {
+        // 1. 递归终止条件
+        if (head == null || head.next == null) {
+            return head;
+        }
+        ListNode p = reverseList2(head.next);
+        head.next.next = head;
+        head.next = null;
+        return p;
+    }
 }

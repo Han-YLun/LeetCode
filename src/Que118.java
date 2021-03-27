@@ -10,9 +10,9 @@ public class Que118 {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> result = new ArrayList<List<Integer>>();
         int[][] fib = new int[numRows][numRows];
-        if (numRows == 0)
+        if (numRows == 0){
             return result;
-
+        }
 
 
         fib[0][0] = 1;
