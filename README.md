@@ -63,6 +63,7 @@
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que208.java) | CSDN | Medium |
 | 206 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que206.java) | CSDN | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que200.java) | CSDN | Medium |
+| 190 | [reverse-bits](https://leetcode.com/problems/reverse-bits/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que190.java) | CSDN | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que169.java) | CSDN | Easy |
 | 191 | [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que191.java) | CSDN | Easy |
 | 171 | [excel-sheet-column-number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que171.java) | CSDN | Easy |
