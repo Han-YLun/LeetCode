@@ -8,7 +8,7 @@ public class Que268 {
 
     //解法一
     public int missingNumber(int[] nums) {
-        int[] a = new int[10];
+        int[] a = new int[10000];
         for (int i = 0; i < nums.length; i++) {
             a[nums [i]] ++ ;
         }
