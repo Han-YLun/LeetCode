@@ -5,15 +5,17 @@ import java.util.List;
  * @author: hyl
  * @date: 2020/03/29
  **/
-class ListNode {
-    int val;
-    ListNode next;
 
-    ListNode(int x) {
-        val = x;
-    }
-}
 public class Que1290 {
+
+    class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int x) {
+            val = x;
+        }
+    }
 
     /**
      * 将每位上的数字记录下来,按照二进制转10进制进行转换
