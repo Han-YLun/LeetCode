@@ -43,8 +43,10 @@ public class Que121 {
             }
         }
 
-
         return maxProfit;
+    }
 
+    public static void main(String[] args) {
+        System.out.println(new Que121().maxProfit1(new int[]{7,1,3,2}));
     }
 }
