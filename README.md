@@ -48,13 +48,13 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que509.java) | CSDN | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que485.java) | CSDN | Easy |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que461.java) | CSDN | Easy |
-| 412 | [fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que412.java) | CSDN | Easy |
+| 412 | [fizz-buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que412.java) | CSDN | Easy |
 | 344 | [reverse-string](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que344.java) | CSDN | Easy |
-| 326 | [power-of-three](https://leetcode-cn.com/problems/power-of-three/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que326.java) | CSDN | Easy |
+| 326 | [power-of-three](https://leetcode.com/problems/power-of-three/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que326.java) | CSDN | Easy |
 | 322 | [Coin Change](https://leetcode.com/problems/coinange) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que322.java) | CSDN | Medium |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que300.java) | [CSDN](https://blog.csdn.net/qq_37888382/article/details/99292640) | Medium |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que292.java) | CSDN | Easy |
-| 283 | [move-zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que283.java) | CSDN | Easy |
+| 283 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que283.java) | CSDN | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que268.java) | CSDN | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que242.java) | CSDN | Easy |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que239.java) | CSDN | Hard |
@@ -63,21 +63,24 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que235.java) | CSDN | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que232.java) | CSDN | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que225.java) | CSDN | Easy |
+| 217 | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que217.java) | CSDN | Easy |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que208.java) | CSDN | Medium |
 | 206 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que206.java) | CSDN | Easy |
-| 202 | [happy-number](https://leetcode-cn.com/problems/happy-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que202.java) | CSDN | Easy |
+| 202 | [happy-number](https://leetcode.com/problems/happy-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que202.java) | CSDN | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que200.java) | CSDN | Medium |
 | 190 | [reverse-bits](https://leetcode.com/problems/reverse-bits/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que190.java) | CSDN | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que169.java) | CSDN | Easy |
 | 191 | [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que191.java) | CSDN | Easy |
-| 171 | [excel-sheet-column-number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que171.java) | CSDN | Easy |
+| 171 | [excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que171.java) | CSDN | Easy |
+| 160 | [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que160.java) | CSDN | Easy |
+| 155 | [min-stack](https://leetcode.com/problems/min-stack/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que155.java) | CSDN | Easy |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que152.java) | CSDN | Medium |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que146.java) | CSDN | Medium |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que145.java) | CSDN | Hard |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que144.java) | CSDN | Medium |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que142.java) | CSDN | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que141.java) | CSDN | Easy |
-| 136 | [single-number](https://leetcode-cn.com/problems/single-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que136.java) | CSDN | Easy |
+| 136 | [single-number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que136.java) | CSDN | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que125.java) | CSDN | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que122.java) | CSDN | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que121.java) | CSDN | Easy |
@@ -95,6 +98,7 @@
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que52.java) | CSDN | Hard |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que51.java) | CSDN | Hard |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que50.java) | CSDN | Medium |
+| 38 | [count-and-say](https://leetcode.com/problems/count-and-say/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que38.java) | CSDN | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que36.java) | CSDN | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que35.java) | CSDN | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que28.java) | CSDN | Easy |
@@ -102,11 +106,11 @@
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que25.java) | CSDN | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que24.java) | CSDN | Medium |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que9.java) | CSDN | Medium |
-| 21 | [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que21.java) | CSDN | Easy |
+| 21 | [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que21.java) | CSDN | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que20.java) | CSDN | Easy |
 | 18 | [4Sum](https://leetcode.com/problems/4sum)| [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que18.java) | CSDN | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que15.java) | CSDN | Medium |
-| 13 | [roman-to-integer](https://leetcode-cn.com/problems/roman-to-integer/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que13.java) | CSDN | Easy |
+| 13 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que13.java) | CSDN | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que9.java) | CSDN | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que7.java) | CSDN | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](https://github.com/Han-YLun/LeetCode/blob/master/src/Que5.java) | CSDN | Medium |
