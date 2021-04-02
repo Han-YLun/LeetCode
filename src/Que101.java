@@ -33,16 +33,12 @@ public class Que101 {
     }
 
     private boolean checkIsEqual(TreeNode left, TreeNode right) {
-        if (left == null && right != null){
-            return false;
-        }
-
-        if (left != null && right == null){
-            return false;
-        }
-
         if (left == null && right == null){
             return true;
+        }
+
+        if (left == null || right == null){
+            return false;
         }
 
         if (left.val != right.val){
