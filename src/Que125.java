@@ -7,18 +7,16 @@ public class Que125 {
 
     public boolean isPalindrome(String s) {
 
-        int start =0,end = s.length()-1;
-        while (start < end ){
+        int start = 0, end = s.length() - 1;
+        while (start < end) {
 
-            if (!Character.isLetter(s.charAt(start)) && !Character.isDigit(s.charAt(start))){
+            if (!Character.isLetter(s.charAt(start)) && !Character.isDigit(s.charAt(start))) {
                 start++;
-            }else if (!Character.isLetter(s.charAt(end)) && !Character.isDigit(s.charAt(end))){
-                end --;
-            }else if(Character.toUpperCase(s.charAt(start))  != Character.toUpperCase(s.charAt(end))
-                ){
-
+            } else if (!Character.isLetter(s.charAt(end)) && !Character.isDigit(s.charAt(end))) {
+                end--;
+            } else if (Character.toUpperCase(s.charAt(start)) != Character.toUpperCase(s.charAt(end))) {
                 return false;
-            }else{
+            } else {
                 start++;
                 end--;
             }
