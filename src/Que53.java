@@ -25,20 +25,5 @@ public class Que53 {
         return maxSum;
     }
 
-    public int maxSubArray1(int[] nums) {
-        if (nums == null || nums.length == 0) {
-            return 0;
-        }
-
-        int preSum = 0, maxSum = nums[0];
-
-        for (int num : nums) {
-            preSum = Math.max(preSum + num, num);
-            maxSum = Math.max(maxSum, preSum);
-        }
-        return maxSum;
-    }
-
-
 
 }
