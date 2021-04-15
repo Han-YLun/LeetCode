@@ -152,8 +152,7 @@ public class Que14 {
 
         return true;
     }
-
-
+    
     public static void main(String[] args) {
         String[] strs = new String[]{"ab","a"};
         System.out.println(new Que14().longestCommonPrefix3(strs));
