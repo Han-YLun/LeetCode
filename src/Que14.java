@@ -106,9 +106,56 @@ public class Que14 {
         return firstPre.substring(0,minLen);
     }
 
+    /**
+     * 二分查找
+     * @param strs
+     * @return
+     */
+    public String longestCommonPrefix3(String[] strs) {
+        if (strs == null || strs.length < 1) {
+            return "";
+        }
+
+        int minLength = Integer.MAX_VALUE;
+        for (String str : strs) {
+            if (minLength > str.length()){
+                minLength = str.length();
+            }
+        }
+
+        int left = 0, right = minLength;
+        while (left < right){
+            int mid = left + (right - left+1) / 2;
+            if (isCommonPrefix(strs,mid)){
+                left = mid+1;
+            }else{
+                right = mid-1;
+            }
+        }
+        return strs[0].substring(0,left);
+
+
+    }
+
+    private boolean isCommonPrefix(String[] strs, int mid) {
+        String str = strs[0].substring(0,mid);
+        int count = strs.length;
+
+        for (int i = 1; i < count; i++) {
+            String tempStr = strs[i];
+            for (int j = 0; j < mid; j++) {
+                if (tempStr.charAt(j) != str.charAt(j)) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
 
     public static void main(String[] args) {
-        String[] strs = new String[]{"a"};
-        System.out.println(new Que14().longestCommonPrefix2(strs));
+        String[] strs = new String[]{"ab","a"};
+        System.out.println(new Que14().longestCommonPrefix3(strs));
     }
 }
