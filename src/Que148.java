@@ -140,10 +140,12 @@ public class Que148 {
      */
     public ListNode sortList2(ListNode head) {
 
+        //自底向上归并排序
         if (head == null) {
             return head;
         }
 
+        //首先从头向后遍历,统计链表长度
         int length = 0;
         ListNode node = head;
         while (node != null) {
@@ -151,16 +153,22 @@ public class Que148 {
             node = node.next;
         }
 
+        //初始化,引入dummyNode
         ListNode dummyHead = new ListNode(0, head);
+
+        //每次将链表拆分成若干个长度为subLength的子链表,并按照每两个子链表一组进行合并
         for (int subLength = 1; subLength < length; subLength <<= 1) {
+            //curr用于记录拆分链表的位置
             ListNode prev = dummyHead, curr = dummyHead.next;
 
             while (curr != null) {
+                //第一个链表的头,即curr初始的位置
                 ListNode head1 = curr;
                 for (int i = 1; (i < subLength) && (curr.next != null); i++) {
                     curr = curr.next;
                 }
 
+                //第二个链表的头  即 链表1尾部的下一个位置
                 ListNode head2 = curr.next;
                 curr.next = null;
                 curr = head2;
@@ -174,8 +182,8 @@ public class Que148 {
                     curr.next = null;
                 }
 
-                ListNode merged = merge(head1,head2);
-                prev.next = merged;
+                //合并两个subLen长度的有序链表
+                prev.next = merge(head1,head2);
                 while (prev.next != null){
                     prev = prev.next;
                 }
@@ -192,7 +200,7 @@ public class Que148 {
         listNode.next.next = new ListNode(1);
         listNode.next.next.next = new ListNode(3);
 
-        new Que148().sortList1(listNode);
+        new Que148().sortList2(listNode);
 
 
     }
