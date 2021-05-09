@@ -85,16 +85,19 @@ public class Que148 {
         while (fast != tail) {
             slow = slow.next;
             fast = fast.next;
-            if (fast != tail){
+            //不使用fast.next.next判空是因为要判断是否等于tail,因为递推的时候依然是整条链
+            if (fast != tail) {
                 fast = fast.next;
             }
         }
+
 
         ListNode mid = slow;
         ListNode list1 = sortListNode(head, mid);
         ListNode list2 = sortListNode(mid, tail);
         return merge(list1, list2);
     }
+
     /**
      * 合并链表list1和list2
      *
@@ -127,6 +130,61 @@ public class Que148 {
         return dummyHead.next;
     }
 
+    /**
+     * 自底向上进行排序
+     * 时间复杂度 : O(N * log(N))
+     * 空间复杂度 : O(1)
+     *
+     * @param head
+     * @return
+     */
+    public ListNode sortList2(ListNode head) {
+
+        if (head == null) {
+            return head;
+        }
+
+        int length = 0;
+        ListNode node = head;
+        while (node != null) {
+            length++;
+            node = node.next;
+        }
+
+        ListNode dummyHead = new ListNode(0, head);
+        for (int subLength = 1; subLength < length; subLength <<= 1) {
+            ListNode prev = dummyHead, curr = dummyHead.next;
+
+            while (curr != null) {
+                ListNode head1 = curr;
+                for (int i = 1; (i < subLength) && (curr.next != null); i++) {
+                    curr = curr.next;
+                }
+
+                ListNode head2 = curr.next;
+                curr.next = null;
+                curr = head2;
+                for (int i = 1; (i < subLength) && (curr != null) && (curr.next != null); i++) {
+                    curr = curr.next;
+                }
+
+                ListNode next = null;
+                if (curr != null){
+                    next = curr.next;
+                    curr.next = null;
+                }
+
+                ListNode merged = merge(head1,head2);
+                prev.next = merged;
+                while (prev.next != null){
+                    prev = prev.next;
+                }
+                curr = next;
+            }
+        }
+        return dummyHead.next;
+    }
+
     public static void main(String[] args) {
         //[4,2,1,3]
         ListNode listNode = new ListNode(4);
@@ -137,17 +195,6 @@ public class Que148 {
         new Que148().sortList1(listNode);
 
 
-    }
-
-    /**
-     * 自底向上进行排序
-     * 时间复杂度 : O(N * log(N))
-     * 空间复杂度 : O(1)
-     * @param head
-     * @return
-     */
-    public ListNode sortList12(ListNode head) {
-        return sortListNode(head, null);
     }
 
 
