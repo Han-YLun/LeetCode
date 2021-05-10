@@ -60,6 +60,7 @@ public class Que162 {
     }
 
     /**
+     * 递归解决
      * 时间复杂度 : O(logN)
      * 空间复杂度 : O(logN)
      * @param nums
@@ -82,5 +83,28 @@ public class Que162 {
         }
 
     }
+
+    /**
+     * 迭代解决
+     * 时间复杂度 : O(logN)
+     * 空间复杂度 : O(1)
+     * @param nums
+     * @return
+     */
+    public int findPeakElement3(int[] nums) {
+
+        int l = 0,r = nums.length-1;
+        while (l < r){
+            //防止溢出
+            int mid = l + (r- l) / 2;
+            if (nums[mid] > nums[mid+1]){
+                r = mid;
+            }else{
+                l = mid+1;
+            }
+        }
+        return l;
+    }
+
 
 }
