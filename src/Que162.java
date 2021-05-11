@@ -88,7 +88,7 @@ public class Que162 {
      * 迭代解决
      * 时间复杂度 : O(logN)
      * 空间复杂度 : O(1)
-     * @param nums
+     * @param nums 数组
      * @return
      */
     public int findPeakElement3(int[] nums) {
