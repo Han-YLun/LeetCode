@@ -29,7 +29,9 @@ public class Que22 {
         if (right > left){
             generateString(s + ")",resultList, left , right-1);
         }
-        
+    }
 
+    public static void main(String[] args) {
+        System.out.println(new Que22().generateParenthesis(2));
     }
 }
