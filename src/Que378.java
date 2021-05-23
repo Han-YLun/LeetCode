@@ -1,5 +1,3 @@
-import sun.nio.cs.ext.MacArabic;
-
 import java.util.Arrays;
 
 /**
